@@ -1,0 +1,23 @@
+{
+    "entry": {
+        "eth": {"price": 482.01},
+        "btc": {"price": 15000.11},
+        "dpi": {"price": 80.11},
+        "link": {"price": 10.1},
+        "dot": {"price": 4.01},
+        "band": {"price": 5.13}
+    },
+    "currency": "eur",
+    "alerts": {
+        "global": {
+            "lvl1": 3,
+            "lvl2": 8,
+            "lvl3": 15
+        }
+    },
+    "wait": 300,
+    "telegram": {
+        "token": "TOKEN_HERE",
+        "chat_id": "CHAT_ID_HERE"
+    }
+}
